@@ -1,3 +1,1 @@
-# Computer System Architecture
-## 1: Hello World
-
+# Архитектура вычислительных систем: Домашние задания
