@@ -24,7 +24,7 @@ main_loop:                                                      # главный
     pop rbp
     ret
 
-factorial:                                                      # итеративная версия факториала
+factorial:                                                      # итеративная версия факториала, принимает аргумент в rdi, возвращает значение в rax
     push rbp
     mov rbp, rsp
 
